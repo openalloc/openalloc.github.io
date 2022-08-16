@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+/*    box-sizing: border-box;*/
+}
+
+img[src*='#center'] {
+    display: block;
+    width: 600px;
+    height: auto;
+    margin: auto;
+    float: none!important;
+    transition: transform .2s;
+}
+
+img[src*='#center']:hover {
+    cursor: pointer;
+    transform: scale(1.5,1.5);
+    -moz-transform: scale(1.5,1.5);
+    transition: 250ms;
+}
+
+body {
+    background: #fff;
+    color: #000;
+    font-family: Helvetica, Arial;
+    text-align: center;
+}
+
+.wrapper {
+/*    max-width: 900px;*/
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    text-align: left;
+}
+
+header {
+    background-color: #dde;
+    max-width: 100%;
+}
+
+header .headertable {
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header .wrapper {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header .site-name {
+    font-size: 2.0em;
+    color: #555;
+    font-weight: bold;
+}
+
+header .site-subtitle {
+    margin-top: 10px;
+    font-size: 1.1em;
+    color: #777;
+    font-style: italic;
+}
+
+header table {
+    max-width: 100%;
+    margin-left: 20px;
+/*    display: inline-table;*/
+/*    padding-left: 1px;*/
+/*    padding-right: 1px;*/
+/*    background-color: darkgreen;*/
+}
+
+nav {
+    margin-top: 20px;
+    color: #555;
+}
+
+nav li {
+    display: inline-block;
+    margin: 7px;
+    line-height: 1.5em;
+    border-style: solid;
+    border-radius: 0.25em;
+    border-width: 1px;
+    border-color: #555;
+    padding: 5px 20px;
+}
+
+nav li a.selected {
+    text-decoration: underline;
+    background-color: yellow;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 2em;
+    color: darkgreen;
+}
+
+h2 {
+    margin: 20px 0;
+    color: darkblue;
+}
+
+h3 {
+    margin: 15px 0;
+    color: darkred;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a {
+    color: inherit;
+}
+
+.description {
+    margin-bottom: 40px;
+}
+
+footer {
+    color: #444;
+}
+
+div.special_table + table {
+    background-color: #dde;
+    border-collapse: collapse;
+}
+
+div.special_table + table tr {
+    border: solid;
+    border-width: 1px 0;
+    border-color: white;
+}
+
+div.special_table + table th {
+    padding: 3px 10px;
+}
+
+div.special_table + table td {
+    padding: 3px 10px;
+/*    border-top: 1px solid white;*/
+}
