@@ -1,8 +1,6 @@
 import Foundation
 import Publish
 import Plot
-//import S3PublishDeploy
-//.deploy(using: .s3("flowallocator.app", pathToAWSBinary: "/opt/homebrew/bin/aws")),
 
 try MySite().publish(
     using: [

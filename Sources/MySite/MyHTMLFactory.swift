@@ -174,7 +174,7 @@ private struct SiteFooter: Component {
     var body: Component {
         Footer {
             Paragraph {
-                Text("Copyright 2021, OpenAlloc LLC. All Rights Reserved")
+                Text("Copyright 2021-2022, OpenAlloc LLC. All Rights Reserved")
             }
             Paragraph {
                 Text("Follow ")
