@@ -10,5 +10,5 @@ try MySite().publish(
         .copyResources(),
         .generateHTML(withTheme: .myTheme),
         .generateSiteMap(),
-        .deploy(using: .gitHub("openalloc/openalloc.github.io")),
+        .deploy(using: .gitHub("openalloc/openalloc.github.io", useSSH: false)),
     ])
