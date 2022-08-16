@@ -1,6 +1,10 @@
-## Welcome to OpenAlloc Project
 
-Under construction. Working hard to get some content here for the expansion of the OpenAlloc project in early August 2022.
+# Site
 
+## Deploying
 
-Copyright OpenAlloc LLC 2022
+```
+$ publish generate
+$ publish run
+$ publish deploy
+```
