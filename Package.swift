@@ -1,4 +1,6 @@
-// swift-tools-version:5.2
+// swift-tools-version:5.4
+
+import PackageDescription
 
 let package = Package(
     name: "openalloc.github.io",
@@ -6,14 +8,15 @@ let package = Package(
         .executable(name: "openalloc.github.io", targets: ["openalloc.github.io"])
     ],
     dependencies: [
-        .package(url: "https://github.com/johnsundell/publish.git", from: "0.3.0"),
+        .package(url: "https://github.com/johnsundell/publish.git", from: "0.8.0"),
     ],
     targets: [
-        .target(
+        .executableTarget(
             name: "openalloc.github.io",
             dependencies: [
-               "Publish",
-            ]
+                .product(name: "Publish", package: "Publish"),
+            ],
+            path: "Sources"
         )
     ]
 )
