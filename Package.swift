@@ -4,6 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "openalloc.github.io",
+    platforms: [.macOS(.v10_12)],
     products: [
         .executable(name: "openalloc.github.io", targets: ["openalloc.github.io"])
     ],
