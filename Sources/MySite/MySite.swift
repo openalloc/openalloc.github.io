@@ -5,7 +5,7 @@ import Plot
 struct MySite: Website {
     
     /// Basics values
-    var url = URL(string: "https://openalloc.github.io/flow")!
+    var url = URL(string: "https://openalloc.github.io")!
     var title = "FlowAllocator and FlowWorth Apps"
     var name = "FlowAllocator / FlowWorth"
     var description = "Two Power Tools for the Do-It-Yourself Investor"

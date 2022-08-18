@@ -19,8 +19,6 @@ In addition, the _FlowAllocator_ and _FlowWorth_ apps and their source code have
 
 These ‘terms and conditions’ are subject to change and will be included in future releases of the software.
 
-Failure to agree to these terms will result in restricted functionality.
-
 ```
 Mozilla Public License Version 2.0
 ==================================
@@ -396,3 +394,6 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.
 ```
+
+Failure to agree to these terms will result in restricted functionality.
+
