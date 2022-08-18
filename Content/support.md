@@ -15,6 +15,6 @@ Common questions are answered in the documentation, available in-app and on the 
 
 Issues regarding importers are tracked at the [OpenAlloc/FINporter](https://github.com/openalloc/FINporter) open source project on GitHub.
 
-You can contact support by email: [support@flowallocator.app](mailto:support@flowallocator.app).
+You can contact support by email: [openalloc\_support@fastmail.com](mailto:openalloc\_support@fastmail.com).
 
 You can follow [@FlowAllocator](https://twitter.com/flowallocator) on Twitter (DMs open for support questions).

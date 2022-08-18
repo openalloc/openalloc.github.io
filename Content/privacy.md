@@ -1,15 +1,15 @@
 ---
-title: FlowAllocator Privacy Policy
+title: OpenAlloc Privacy Policy
 keywords: [privacy, policy]
 robots: [index, anchors]
 anchor: privacy
 description: |
-  FlowAllocator’s Privacy Policy
+  OpenAlloc’s Privacy Policy
 ---
 
 # Privacy Policy
 
-The current version of this document can be found at [https://openalloc.github.io/flow/privacy/](https://openalloc.github.io/flow/privacy/).
+The current version of this document can be found at [https://openalloc.github.io/privacy/](https://openalloc.github.io/privacy/).
 
 At OpenAlloc LLC, we respect your privacy. We believe that the less we know about you and your personal financial data, the better; that is why we aim to limit the information we collect to the minimum necessary. 
 
@@ -21,19 +21,15 @@ We reserve the right to change this policy at any time (and without prior notifi
 
 ## Information we collect
 
-Your portfolio data is stored exclusively in zip-compressed “.allocatz” (for FlowAllocator) and “.worthz” (for FlowWorth) files you save locally to your device’s file system. The application does not upload this data. Nor does the application offer online storage, backup, or syncing with third-party services, including Apple’s iCloud service.
+Your financial data is stored exclusively in zip-compressed “.allocatz” (for FlowAllocator) and “.worthz” (for FlowWorth) files you save locally to your device’s file system. The application does not upload this data. Nor does the application offer online storage, backup, or syncing with third-party services, including Apple’s iCloud service.
 
-We collect a limited amount of information that is necessary to manage subscriptions, to improve the app, and to provide support.
+We may collect a limited amount of information that is necessary to improve the app, and to provide support. To help identify and solve specific problems with our products and services, we occasionally solicit diagnostic reports and other troubleshooting, bug, and crash reports from customers. 
 
-To manage and verify your subscription across multiple devices, we collect your digital purchase receipts from Apple together with a unique device identifier. The digital purchase receipts only include information about the type and the time of a purchase. We do not see any contact or payment information. We also do not have access to your Apple ID. In addition to the basic purchase information, we may collect data about redeemed trial and promotional codes. 
-
-To help identify and solve specific problems with our products and services, we occasionally solicit diagnostic reports and other troubleshooting, bug, and crash reports from customers. 
-
-The website may also store basic technical information, such as your IP address, in temporary memory or logs. If you decide to contact us through the contact form, we receive an email with the details you provided (your email address, the name and the text). 
+The website may also store basic technical information, such as your IP address, in temporary memory or logs. If you decide to contact us via email, we receive an email with the details you provided (your email address, the name and the text). 
 
 ## Information usage
 
-We use the information we collect to operate and improve our apps, website, and customer support. For instance, we will respond to the provided email address in the contact form to answer your question or help you fix a problem, but we do not use your email address for marketing purposes or share it with others.
+We use the information we collect to operate and improve our apps, website, and customer support. For instance, we will respond to an email to answer your question or help you fix a problem, but we do not use your email address for marketing purposes or share it with others.
 
 We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property.
 
@@ -44,10 +40,6 @@ In the future, we may sell to, buy, merge with, or partner with other businesses
 We implement a variety of security measures to help keep your information secure. 
 
 ## Accessing, changing, or deleting information
-
-You can access and manage your application subscription through your Apple ID account.
-
-Deleted information may be kept in backups for up to 90 days. Backups are encrypted and are only accessed if needed for disaster recovery.
 
 You can request that we erase any personal data we hold about you, such as that found in support emails. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
@@ -73,7 +65,7 @@ By using our website or software, you consent to our privacy policy.
 
 ## Contacting Us
 
-If you have questions regarding this privacy policy, you may email support@flowallocator.app. 
+If you have questions regarding this privacy policy, you may contact us via the support email.
 
 ## Changes to this policy
 
@@ -82,4 +74,4 @@ We will post changes to our Privacy Policy on this page. Summary of changes so f
 * June 28, 2021: First published.
 * October 27, 2021: Added support for FlowWorth application.
 * January 5, 2022: Simplification to remove "To improve the software, we may collect aggregate, anonymous statistics, such as the percentage of users who use particular features." as there are no plans to collect usage information.
-
+* August 18, 2022: Updated for OpenAlloc LLC and lack of subscriptions.
