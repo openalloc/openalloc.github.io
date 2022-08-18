@@ -11,6 +11,7 @@ description: |
 
 By downloading and using the _FlowAllocator_ or _FlowWorth_ app, the terms of the license will automatically apply to you. Review carefully before using the software.
     
+
 _FlowAllocator_ or _FlowWorth_ are for educational purposes only. They do not provide investment or tax advice. Their developers (_OpenAlloc LLC_ and project contributors) are not advisers and do not offer investment or tax advice. Before making any investment decisions from use of _FlowAllocator_ or _FlowWorth_, you should carefully inspect the output to ensure the calculations are fully consistent with your investment objectives.
 
 Any products, services, or strategies (e.g., stock tickers, brokerages, asset allocations, etc.) mentioned in the software, documentation, or website are examples provided for educational purposes only. They are neither endorsements nor recommendations. It is your responsibility to do the research (or consult a professional) to find suitable vehicles for your investment needs.
