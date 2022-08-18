@@ -18,7 +18,7 @@ _FlowAllocator_ offers features accessible to those new to investing, as well as
 
 Your privacy is paramount. Financial data in _FlowAllocator_ stays local to your computer. None of it is uploaded to the cloud. No connection to remote providers is involved. 
 
-[Available for download](https://apps.apple.com/us/app/flowallocator/id1572300664) in the Mac App Store. (U.S. only for now)
+[Available for download](https://apps.apple.com/us/app/flowallocator/) in the Mac App Store. (U.S. only for now)
 
 [FlowAllocator Documentation](/allocator/contents/index.html)
 
@@ -97,7 +97,7 @@ _Optimizer (with subscription):_
 
 ## Requirements
 
-Requires macOS Big Sur (11.0) or later, running on Intel or Apple Silicon.
+Requires macOS Monterey (12.0) or later, running on Intel or Apple Silicon.
 
 
 

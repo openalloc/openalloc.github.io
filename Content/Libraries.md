@@ -1,26 +1,24 @@
 ---
-title: OpenAlloc
-keywords: [OpenAlloc, open, source, framework, data, model, import, importer]
+title: Packages
+keywords: [OpenAlloc, packages, libraries, open, source, framework, data, model, import, importer]
 robots: [index, anchors]
 anchor: openalloc
 ---
 
 <img align="right" src="/images/openalloc_icon.png" width="110" height="110"/>
-# OpenAlloc
+# OpenAlloc Libraries
 
-[OpenAlloc](https://github.com/openalloc) is family of libraries and tools, both general-purpose and with an special emphasis on investing.
+The [OpenAlloc Project](https://github.com/openalloc) is family of applications and re-usable libraries, most of which have a special emphasis on investing.
 
-At present, all of the code is written using the Swift Language, originally a proprietary language from Apple, but now itself open sourced.
+The libraries are available as Swift Packages, for portability and ease of integration.
 
-All code in _OpenAlloc_ is published with standard open source licenses. Typically Apache 2.0 will be used for the re-usable libraries. Application code is released under the Mozilla Public License 2.0.
-
-_FlowAllocator_ and _FlowWorth_ incorporate the libraries and tools of _OpenAlloc_, relying on them for such tasks as transforming your brokerage exports.
+All code in _OpenAlloc_ is published with standard open source licenses. Typically Apache 2.0 will be used for the libraries.
 
 ## AllocData (Data Model)
 
 The [AllocData Project](https://github.com/openalloc/AllocData) contains the data model used in _FlowAllocator_ and _FlowWorth_.
 
-Your portfolio data is stored to your local filesystem in document file, which is a standard zip file containing delimited files based on schema in _AllocData_. (For _FlowAllocator_ the document file extension is ‘.allocatz’, and for _FlowWorth_ it is ‘.worthz’.)
+Your portfolio data is stored to your local file system in document file, which is a standard zip file containing delimited files based on schema in _AllocData_. (For _FlowAllocator_ the document file extension is ‘.allocatz’, and for _FlowWorth_ it is ‘.worthz’.)
 
 As shown in the demo videos, delimited files conforming to the schema of _AllocData_ can be imported into _FlowAllocator_ and _FlowWorth_ through the Import menu or drag-and-drop.
 
@@ -48,7 +46,7 @@ As more brokerages/services are supported by _FINporter_, that support will even
 
 ## General-purpose Libraries
 
-Of interest to developers, _OpenAlloc_ also features general-purpose libraries extracted from _FlowAllocator_ and _FlowWorth_:
+Of interest to Swift developers, _OpenAlloc_ also features general-purpose libraries extracted from _FlowAllocator_ and _FlowWorth_:
 
 * [SwiftCompactor](https://github.com/openalloc/SwiftCompactor) - formatters for the concise display of Numbers, Currency, and Time Intervals
 * [SwiftModifiedDietz](https://github.com/openalloc/SwiftModifiedDietz) - A tool for calculating portfolio performance using the Modified Dietz method

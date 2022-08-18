@@ -6,9 +6,9 @@ struct MySite: Website {
     
     /// Basics values
     var url = URL(string: "https://openalloc.github.io")!
-    var title = "FlowAllocator and FlowWorth Apps"
-    var name = "FlowAllocator / FlowWorth"
-    var description = "Two Power Tools for the Do-It-Yourself Investor"
+    var title = "OpenAlloc Project"
+    var name = "OpenAlloc Project"
+    var description = "Power Tools for the Do-It-Yourself Investor"
     var language: Language { .english }
     //var favicon: Favicon? { Favicon() }
     var imagePath: Path? { nil }
@@ -16,7 +16,7 @@ struct MySite: Website {
     enum SectionID: String, WebsiteSectionID {
         case allocator = "FlowAllocator"
         case worth = "FlowWorth"
-        case open = "OpenAlloc"
+        case libraries = "Libraries"
         case privacy
         case terms
         case support

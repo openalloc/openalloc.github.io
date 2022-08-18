@@ -1,10 +1,16 @@
 *** IMPORTANT NOTE as of August 2022, both FlowAllocator and FlowWorth will be open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users. ***
 
-# Welcome to FlowAllocator, and *now* FlowWorth
+# Welcome to the OpenAlloc Project
 
-_FlowAllocator_ and _FlowWorth_ are apps for the do-it-yourself investor.
+The _OpenAlloc Project_ focuses on tools useful to the do-it-yourself investor.
 
-They offer features accessible to those new to investing, as well as sophisticated capabilities for those who are managing multiple investment strategies across multiple accounts.
+It consists both of applications and re-usable libraries, with a emphasis on investing.
+
+_FlowAllocator_ is an application for rebalancing one’s portfolio.
+
+_FlowWorth_ is an application for tracking the value of one’s portfolio over time.
+
+These applications, currently available on macOS, offer features accessible to those new to investing, as well as sophisticated capabilities for those who are managing multiple investment strategies across multiple accounts.
 
 They provide you flexibility in managing your investment portfolio and can help you save time, gain insight, and discover new opportunities.
 
@@ -26,7 +32,7 @@ Your privacy is paramount. Financial data in _FlowAllocator_ and _FlowWorth_ sta
 <p>
 <a href="FlowAllocator/index.html">More Information</a>
 </p>
-<a href="https://apps.apple.com/us/app/flowallocator/id1572300664">Available for download</a> in the Mac App Store. (U.S. only for now)
+<a href="https://apps.apple.com/us/app/flowallocator/">Available for download</a> in the Mac App Store. (U.S. only for now)
 </td>
 
 <td>
@@ -44,7 +50,7 @@ Your privacy is paramount. Financial data in _FlowAllocator_ and _FlowWorth_ sta
 <p>
 <a href="FlowWorth/index.html">More Information</a>
 </p>
-<a href="https://apps.apple.com/us/app/flowworth/id1592421733">Available for download</a> in the Mac App Store. (U.S. only for now)
+<a href="https://apps.apple.com/us/app/flowworth/">Available for download</a> in the Mac App Store. (U.S. only for now)
 </td>
 
 </tr>
@@ -65,7 +71,7 @@ _FINporter_ is the open import framework, providing support for transforming pos
 
 ## Requirements
 
-_FlowAllocator_ and _FlowWorth_ require macOS Big Sur (11.0) or later, running on Intel or Apple Silicon.
+_FlowAllocator_ and _FlowWorth_ require macOS Monterey (12.0) or later, running on Intel or Apple Silicon.
 
 
 

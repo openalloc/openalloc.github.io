@@ -7,6 +7,7 @@ description: |
   OpenAlloc’s Privacy Policy
 ---
 
+
 # Privacy Policy
 
 The current version of this document can be found at [https://openalloc.github.io/privacy/](https://openalloc.github.io/privacy/).
