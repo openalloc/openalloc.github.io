@@ -18,9 +18,11 @@ $ brew install publish
 
 All modification of source should be done on the ‘author’ branch.
 
-To switch to this branch...
+To clone and switch to this branch...
 
 ```bash
+$ git clone https://github.com/openalloc/openalloc.github.io.git
+$ cd openalloc.github.io
 $ git checkout author
 ```
 
