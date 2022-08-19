@@ -46,6 +46,7 @@ Output to the ‘main’ branch.
 [author] $ rm -rf Output
 [author] $ git add .
 [author] $ git commit -m "latest changes"
+[author] $ git push
 [author] $ publish generate
 [author] $ publish deploy
 ```
