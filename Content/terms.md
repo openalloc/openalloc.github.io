@@ -10,17 +10,19 @@ description: |
 
 # Terms and Conditions
 
-By downloading and using the _FlowAllocator_ or _FlowWorth_ app, the terms of the license will automatically apply to you. Review carefully before using the software.
+‘The software’ means the _FlowAllocator_ and _FlowWorth_ applications.
 
-_FlowAllocator_ or _FlowWorth_ are for educational purposes only. They do not provide investment or tax advice. Their developers (_OpenAlloc LLC_ and project contributors) are not advisers and do not offer investment or tax advice. Before making any investment decisions from use of _FlowAllocator_ or _FlowWorth_, you should carefully inspect the output to ensure the calculations are fully consistent with your investment objectives.
+By downloading and using the software, the terms and conditions will automatically apply to you. Review carefully before using.
 
-Any products, services, or strategies (e.g., stock tickers, brokerages, asset allocations, etc.) mentioned in the software, documentation, or website are examples provided for educational purposes only. They are neither endorsements nor recommendations. It is your responsibility to do the research (or consult a professional) to find suitable vehicles for your investment needs.
+The software is for educational purposes only. It does not provide investment or tax advice. Its developers (_OpenAlloc LLC_ and project contributors) are not advisers and do not offer investment or tax advice. Before making any investment decisions from use of the software, you should carefully inspect the output to ensure the calculations are fully consistent with your investment objectives.
 
-In addition, the _FlowAllocator_ and _FlowWorth_ apps and their source code have been released under the terms of the Mozilla Public License 2.0, as included below.
+Any products, services, or strategies (e.g., stock tickers, brokerages, asset allocations, etc.) mentioned in the software, documentation, demonstration videos, or website are examples provided for educational purposes only. They are neither endorsements nor recommendations. It is your responsibility to do the research (or consult a professional) to find suitable vehicles for your investment needs.
 
-These ‘terms and conditions’ are subject to change and will be included in future releases of the software.
+The software and its source code have been released under the terms of the Mozilla Public License 2.0, as included below.
 
-Failure to agree to these terms will result in restricted functionality.
+These terms and conditions are subject to change and will be included in future releases of the software.
+
+Failure to agree to these terms and conditions may result in restricted functionality.
 
 ```
 Mozilla Public License Version 2.0
