@@ -5,7 +5,7 @@ robots: [index, anchors]
 anchor: app
 ---
 
-*** IMPORTANT NOTE as of August 2022, FlowAllocator will be open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users. ***
+*** IMPORTANT NOTE as of August 2022, FlowAllocator is open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users. ***
 
 <img align="right" src="../images/allocator_icon.png" width="128" height="128"/>
 # Welcome to FlowAllocator

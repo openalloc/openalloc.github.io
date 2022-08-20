@@ -1,4 +1,4 @@
-*** IMPORTANT NOTE as of August 2022, both FlowAllocator and FlowWorth will be open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users. ***
+*** IMPORTANT NOTE as of August 2022, both FlowAllocator and FlowWorth are open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users. ***
 
 # Welcome to the OpenAlloc Project
 
