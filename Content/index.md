@@ -32,7 +32,7 @@ Your privacy is paramount. Financial data in _FlowAllocator_ and _FlowWorth_ sta
 <p>
 <a href="FlowAllocator/index.html">More Information</a>
 </p>
-<a href="https://apps.apple.com/us/app/flowallocator/">Available for download</a> in the Mac App Store. (U.S. only for now)
+<a href="https://apps.apple.com/app/flowallocator-open/id1640747997">Available for download</a> in the Mac App Store.
 </td>
 
 <td>
@@ -50,7 +50,7 @@ Your privacy is paramount. Financial data in _FlowAllocator_ and _FlowWorth_ sta
 <p>
 <a href="FlowWorth/index.html">More Information</a>
 </p>
-<a href="https://apps.apple.com/us/app/flowworth/">Available for download</a> in the Mac App Store. (U.S. only for now)
+<a href="https://apps.apple.com/app/flowworth-open/id1640748160">Available for download</a> in the Mac App Store.
 </td>
 
 </tr>

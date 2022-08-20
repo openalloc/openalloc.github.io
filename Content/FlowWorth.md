@@ -17,7 +17,7 @@ _FlowWorth_ offers features accessible to those new to investing, as well as sop
 
 Your privacy is paramount. Financial data in _FlowWorth_ stays local to your computer. None of it is uploaded to the cloud. No connection to remote providers is involved. 
 
-[Available for download](https://apps.apple.com/us/app/flowworth/) in the Mac App Store. (U.S. only for now)
+[Available for download](https://apps.apple.com/app/flowworth-open/id1640748160) in the Mac App Store.
 
 [FlowWorth Documentation](/worth/contents/index.html)
 
