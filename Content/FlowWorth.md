@@ -6,7 +6,7 @@ anchor: app
 ---
 
 
-*** IMPORTANT NOTE as of August 2022, FlowWorth is open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users. ***
+*** IMPORTANT NOTE as of August 2022, FlowWorth is open source, licensed with MPL-2.0. All ‘Investor’ features that were formerly an in-app purchase are now available to all users. ***
 
 <img align="right" src="../images/worth_icon.png" width="128" height="128"/>
 # Welcome to FlowWorth
@@ -20,6 +20,8 @@ Your privacy is paramount. Financial data in _FlowWorth_ stays local to your com
 [Available for download](https://apps.apple.com/app/flowworth-open/id1640748160) in the Mac App Store.
 
 [FlowWorth Documentation](/worth/contents/index.html)
+
+Application source (licensed with MPL-2.0) is available [here](https://github.com/openalloc/flowapps).
 
 ## Demo of "Delta" Features
 
@@ -75,7 +77,7 @@ _Returns chart (and Delta inspector):_
 _Returns chart (and Modified Dietz inspector):_
 ![Sidebar](/images/worth2.png#center)
 
-_Forecast (with subscription):_
+_Forecast:_
 ![Optimizer](/images/worth3.png#center)
 
 ## Requirements

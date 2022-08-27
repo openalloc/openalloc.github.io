@@ -5,7 +5,7 @@ robots: [index, anchors]
 anchor: app
 ---
 
-*** IMPORTANT NOTE as of August 2022, FlowAllocator is open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users. ***
+*** IMPORTANT NOTE as of August 2022, FlowAllocator is open source, licensed with MPL-2.0. All ‘Investor’ features that were formerly an in-app purchase are now available to all users. ***
 
 <img align="right" src="../images/allocator_icon.png" width="128" height="128"/>
 # Welcome to FlowAllocator
@@ -21,6 +21,8 @@ Your privacy is paramount. Financial data in _FlowAllocator_ stays local to your
 [Available for download](https://apps.apple.com/app/flowallocator-open/id1640747997) in the Mac App Store.
 
 [FlowAllocator Documentation](/allocator/contents/index.html)
+
+Application source (licensed with MPL-2.0) is available [here](https://github.com/openalloc/flowapps).
 
 ## Demo of Features for Basic Version
 
@@ -92,7 +94,7 @@ _Sidebar and Flow Slider:_
 _Rebalance Guide:_
 ![Rebalance](/images/allocator1.png#center)
 
-_Optimizer (with subscription):_
+_Optimizer:_
 ![Optimizer](/images/allocator2.png#center)
 
 ## Requirements

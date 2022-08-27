@@ -56,6 +56,8 @@ Your privacy is paramount. Financial data in _FlowAllocator_ and _FlowWorth_ sta
 </tr>
 </table>
 
+Application source (licensed with MPL-2.0) is available [here](https://github.com/openalloc/flowapps).
+
 ## <img src="images/openalloc_icon.png" width="28" height="28"/>&nbsp;Open Alloc
 
 _OpenAlloc_ is the open source framework upon which _FlowAllocator_ and _FlowWorth_ are built. It includes the _AllocData_ data model and _FINporter_ import framework projects.
