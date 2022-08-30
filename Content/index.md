@@ -57,7 +57,9 @@ Your privacy is paramount. Financial data in _FlowAllocator_ and _FlowWorth_ sta
 </table>
 <p></p>
 
-Application source (licensed with MPL-2.0) is available [here](https://github.com/openalloc/flowapps).
+Application source (licensed with MPL-2.0) is available: 
+[FlowAllocator](https://github.com/openalloc/FlowAllocatorApp)
+[FlowWorth](https://github.com/openalloc/FlowWorthApp)
 
 ## <img src="images/openalloc_icon.png" width="28" height="28"/>&nbsp;Open Alloc
 

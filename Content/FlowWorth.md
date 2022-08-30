@@ -21,7 +21,7 @@ Your privacy is paramount. Financial data in _FlowWorth_ stays local to your com
 
 [FlowWorth Documentation](/worth/contents/index.html)
 
-Application source (licensed with MPL-2.0) is available [here](https://github.com/openalloc/flowapps).
+Application source (licensed with MPL-2.0) is available [here](https://github.com/openalloc/FlowWorthApp).
 
 ## Demo of "Delta" Features
 
