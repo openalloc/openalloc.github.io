@@ -11,6 +11,12 @@ description: |
 
 What's new with _FlowWorth_?
 
+## Version 1.9
+
+*Released September 2022*
+
+* Replaced “Δ% (Annualized)” with  “Δ% (CAGR)” with new Compound Annual Growth Rate calculation for period.
+
 ## Version 1.8
 
 *Released August 2022*
