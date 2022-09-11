@@ -3,7 +3,7 @@ import Publish
 import Plot
 
 struct MySite: Website {
-    
+
     /// Basics values
     var url = URL(string: "https://openalloc.github.io")!
     var title = "OpenAlloc Project"
@@ -12,7 +12,7 @@ struct MySite: Website {
     var language: Language { .english }
     //var favicon: Favicon? { Favicon() }
     var imagePath: Path? { nil }
-    
+
     enum SectionID: String, WebsiteSectionID {
         case allocator = "FlowAllocator"
         case worth = "FlowWorth"
@@ -21,10 +21,10 @@ struct MySite: Website {
         case terms
         case support
     }
-    
+
     /// We just use basic metadata values
     struct ItemMetadata: WebsiteItemMetadata {}
-    
+
     /// All dates use the same time zone and locale
     static func dateFormatter(with format: String) -> DateFormatter {
         let formatter = DateFormatter()
@@ -33,10 +33,10 @@ struct MySite: Website {
         formatter.dateFormat = format
         return formatter
     }
-    
+
     /// Formats dates like `2020-02-23`. For `<time>` elements.
     static var htmlDateFormatter = dateFormatter(with: "MM-dd-yyyy")
-    
+
     /// Formats dates like `February 23, 2020`. For posts and post lists.
     static var textualDateFormatter = dateFormatter(with: "MMMM d, yyyy")
 }

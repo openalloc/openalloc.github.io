@@ -3,7 +3,7 @@ import Publish
 import Plot
 
 struct MyHTMLFactory: HTMLFactory {
-    
+
     func makeIndexHTML(for index: Index,
                        context: PublishingContext<MySite>) throws -> HTML {
         HTML(
@@ -33,7 +33,7 @@ struct MyHTMLFactory: HTMLFactory {
             }
         )
     }
-    
+
     func makeItemHTML(for item: Item<MySite>,
                       context: PublishingContext<MySite>) throws -> HTML {
         HTML(
@@ -55,7 +55,7 @@ struct MyHTMLFactory: HTMLFactory {
             )
         )
     }
-    
+
     func makePageHTML(for page: Page,
                       context: PublishingContext<MySite>) throws -> HTML {
         HTML(
@@ -74,7 +74,7 @@ struct MyHTMLFactory: HTMLFactory {
         // Has an empty HTML, because tags are deactivated for now
         nil
     }
-    
+
     func makeTagDetailsHTML(for page: TagDetailsPage,
                             context: PublishingContext<MySite>) throws -> HTML? {
         // Has an empty HTML, because tags are deactivated for now
@@ -140,12 +140,12 @@ private struct SiteHeader<Site: Website>: Component {
                             Wrapper {
                                 Link(context.site.name, url: "/")
                                     .class("site-name")
-                                
+
                                 Paragraph {
                                     Text(context.site.description)
                                 }
                                 .class("site-subtitle")
-                                
+
                                 if Site.SectionID.allCases.count > 1 {
                                     navigation
                                 }

@@ -15,6 +15,8 @@ The market value of your assets over time, _net_ of cash flows.
 
 Only the starting and the ending Snapshot are considered. Those in between are ignored.
 
+“%Δ (CAGR)” is the Compound Annual Growth Rate based on the change in value over the period. See [CAGR at Wikipedia](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) for more details.
+
 ## Snapshot Performance Table
 
 The change in market value for individual Snapshots is shown, as well as the period to date.

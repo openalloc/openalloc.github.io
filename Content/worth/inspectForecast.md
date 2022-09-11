@@ -15,7 +15,9 @@ The projected market value of your assets, _net_ of cash flows.
 
 This performance is based on a conventional linear regression calculation, based on MValuationPosition records for the selected period. 
 
-Daily (averaged) and annualized figures are provided.
+Daily and annualized figures are provided, based on the averaged change over the period.
+
+“%Δ (CAGR)” is the Compound Annual Growth Rate based on the change in value over the period. See [CAGR at Wikipedia](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) for more details.
 
 Note that Cash flow is ignored.
 

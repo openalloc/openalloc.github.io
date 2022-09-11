@@ -23,7 +23,7 @@ This drives the columns shown. Available in the toolbar, menu, and as keyboard s
 
 * Period - duration of currently-selected period
 * Δ% (period) - the change in market value, as a percent ($Δ / start)
-* Δ (annualized) - an annualized projection of the change in value
+* Δ% (CAGR) - compound annual growth rate, as a percent ((end/start) ^ (1/years))
 * Δ (daily) - an averaged daily projection of the change in value
 * Market Value - the minimum and maximum valuations over the snapshots of the period
 
