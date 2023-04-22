@@ -42,11 +42,11 @@ a group of open source projects with Apache and Mozilla Licensing.
 
 ### The Data Model
 
-The Data Model is [AllocData](https://github.com/OpenAlloc/AllocData)
+The Data Model is [AllocData](https://github.com/open-portfolio/AllocData)
 
 ### Importers
 
-The Importer Suite is [FINporter](https://github.com/OpenAlloc/FINporter)
+The Importer Suite is [FINporter](https://github.com/open-portfolio/FINporter)
 
 ## Privacy
 

@@ -80,9 +80,9 @@ Through the _FINporter_ project in _OpenAlloc_, _FlowAllocator_ supports\* the d
 
 <br/>
 
-See the _FINporter_ [README](https://github.com/openalloc/FINporter) for more details.
+See the _FINporter_ [README](https://github.com/open-portfolio/FINporter) for more details.
 
-Where direct import of brokerage statements isn't available, you can import data using delimited (CSV, etc.) tables using the formats specified in _AllocData_. See its [README](https://github.com/openalloc/AllocData) for more details.
+Where direct import of brokerage statements isn't available, you can import data using delimited (CSV, etc.) tables using the formats specified in _AllocData_. See its [README](https://github.com/open-portfolio/AllocData) for more details.
 
 \*_Support of any service, including those mentioned above, is neither a recommendation nor endorsement. Do your own research to find suitable vehicles to meet your investment objectives, or seek professional guidance._
 

@@ -13,7 +13,7 @@ Each row of the valuation cashflow table describes a cash flow at a particular t
 
 ## Schema
 
-This table can be populated from the [openalloc/valuation/cashflow](https://github.com/openalloc/AllocData#mvaluationcashflow) schema.
+This table can be populated from the [openalloc/valuation/cashflow](https://github.com/open-portfolio/AllocData#mvaluationcashflow) schema.
 
 The attributes for cashflow can be modified manually in the UI.
 

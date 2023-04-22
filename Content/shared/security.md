@@ -14,7 +14,7 @@ class and latest price.
 
 ## Schema
 
-This table can be populated from the [openalloc/security](https://github.com/openalloc/AllocData#msecurity) schema.
+This table can be populated from the [openalloc/security](https://github.com/open-portfolio/AllocData#msecurity) schema.
 
 Where support has been added, the Securities Table can be populated
 through drag and drop of exports from your brokerage account, such as

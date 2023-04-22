@@ -65,9 +65,9 @@ Application source (licensed with MPL-2.0) is available:
 
 _OpenAlloc_ is the open source framework upon which _FlowAllocator_ and _FlowWorth_ are built. It includes the _AllocData_ data model and _FINporter_ import framework projects.
 
-_AllocData_ is the data model describing the format for import files, export files, as well as the storage of your investing data in _allocatz_ and _worthz_ document files. ([source at github](https://github.com/openalloc/AllocData))
+_AllocData_ is the data model describing the format for import files, export files, as well as the storage of your investing data in _allocatz_ and _worthz_ document files. ([source at github](https://github.com/open-portfolio/AllocData))
 
-_FINporter_ is the open import framework, providing support for transforming position and transaction data from brokerage export files. Currently two brokerages are supported. ([source at github](https://github.com/openalloc/FINporter))
+_FINporter_ is the open import framework, providing support for transforming position and transaction data from brokerage export files. Currently two brokerages are supported. ([source at github](https://github.com/open-portfolio/FINporter))
 
 <p>
 <a href="OpenAlloc/index.html">More Information</a>

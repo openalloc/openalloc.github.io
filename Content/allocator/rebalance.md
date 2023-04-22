@@ -67,9 +67,9 @@ The rebalance export will be a zip file containing delimited tables:
 
 ...adhering to the schemas:
 
-* [openalloc/rebalance/purchase](https://github.com/openalloc/AllocData#mrebalancepurchase)
-* [openalloc/rebalance/sale](https://github.com/openalloc/AllocData#mrebalancesale)
-* [openalloc/rebalance/allocation](https://github.com/openalloc/AllocData#mrebalanceallocation)
+* [openalloc/rebalance/purchase](https://github.com/open-portfolio/AllocData#mrebalancepurchase)
+* [openalloc/rebalance/sale](https://github.com/open-portfolio/AllocData#mrebalancesale)
+* [openalloc/rebalance/allocation](https://github.com/open-portfolio/AllocData#mrebalanceallocation)
 
 Also included is a `params.json` file that contains the participating accounts and asset classes, and the flow value.
 

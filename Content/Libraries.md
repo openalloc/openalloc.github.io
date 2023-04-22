@@ -16,7 +16,7 @@ All code in _OpenAlloc_ is published with standard open source licenses. Typical
 
 ## AllocData (Data Model)
 
-The [AllocData Project](https://github.com/openalloc/AllocData) contains the data model used in _FlowAllocator_ and _FlowWorth_.
+The [AllocData Project](https://github.com/open-portfolio/AllocData) contains the data model used in _FlowAllocator_ and _FlowWorth_.
 
 Your portfolio data is stored to your local file system in document file, which is a standard zip file containing delimited files based on schema in _AllocData_. (For _FlowAllocator_ the document file extension is ‘.allocatz’, and for _FlowWorth_ it is ‘.worthz’.)
 
@@ -24,7 +24,7 @@ As shown in the demo videos, delimited files conforming to the schema of _AllocD
 
 ## FINporter (Importer Framework)
 
-The [FINporter Project](https://github.com/openalloc/FINporter) provides the import framework for _FlowAllocator_ and _FlowWorth_. 
+The [FINporter Project](https://github.com/open-portfolio/FINporter) provides the import framework for _FlowAllocator_ and _FlowWorth_. 
 
 Export files from the following brokerages/services are currently supported\* for import into _FlowAllocator_ and _FlowWorth_: 
 
@@ -38,7 +38,7 @@ Export files from the following brokerages/services are currently supported\* fo
 
 <br/>
 
-Those exports can be imported through the application's Import menu or drag-and-drop. See _FINporter_’s [README](https://github.com/openalloc/FINporter) for further details on supported export formats.
+Those exports can be imported through the application's Import menu or drag-and-drop. See _FINporter_’s [README](https://github.com/open-portfolio/FINporter) for further details on supported export formats.
 
 As more brokerages/services are supported by _FINporter_, that support will eventually be reflected in _FlowAllocator_ and _FlowWorth_. If there’s a delay, _FINporter_’s command-line tool can be used as a stop-gap to transform new (or updated) formats to standardized _AllocData_ schema that can be imported.
 

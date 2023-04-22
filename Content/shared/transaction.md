@@ -15,7 +15,7 @@ NOTE: this replaces the deprecated 'History' table.
 
 ## Schema
 
-This table can be populated from the [openalloc/transaction](https://github.com/openalloc/AllocData#mtransaction) schema.
+This table can be populated from the [openalloc/transaction](https://github.com/open-portfolio/AllocData#mtransaction) schema.
 
 Where support has been added, the Transaction Table can be populated through
 drag and drop of exports from your brokerage account, such as ‘accounts

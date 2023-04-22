@@ -15,7 +15,7 @@ It also establishes relations between assets.
 
 ## Schema
 
-This table can be populated from the [openalloc/asset](https://github.com/openalloc/AllocData#masset) schema.
+This table can be populated from the [openalloc/asset](https://github.com/open-portfolio/AllocData#masset) schema.
 
 It is pre-populated with standard asset classes. It can be manually edited
 manually in the UI.

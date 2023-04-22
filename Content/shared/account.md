@@ -17,7 +17,7 @@ To delete an account, first remove from strategy, then delete from menu.
 
 ## Schema
 
-This table can be populated from the [openalloc/account](https://github.com/openalloc/AllocData#maccount) schema.
+This table can be populated from the [openalloc/account](https://github.com/open-portfolio/AllocData#maccount) schema.
 
 Where support has been added, the Accounts Table can be populated through
 drag and drop of exports from your brokerage account, such as ‘Portfolio

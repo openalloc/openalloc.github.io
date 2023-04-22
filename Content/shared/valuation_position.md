@@ -13,7 +13,7 @@ Each row of the valuation position table describes a position captured at a part
 
 ## Schema
 
-This table can be populated from the [openalloc/valuation/position](https://github.com/openalloc/AllocData#mvaluationposition) schema.
+This table can be populated from the [openalloc/valuation/position](https://github.com/open-portfolio/AllocData#mvaluationposition) schema.
 
 The attributes for position can be modified manually in the UI.
 

@@ -16,7 +16,7 @@ Each row of the Trackers table describes a shared tracking index. For example, t
 
 ## Schema
 
-This table can be populated from the [openalloc/tracker](https://github.com/openalloc/AllocData#mtracker) schema.
+This table can be populated from the [openalloc/tracker](https://github.com/open-portfolio/AllocData#mtracker) schema.
 
 A comma- or tab-delimited file adhering to the following schema can also be imported through
 drag and drop or the Import menu:

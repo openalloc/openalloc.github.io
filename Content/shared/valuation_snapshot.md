@@ -13,7 +13,7 @@ Each row of the ValuationSnapshot table describes a valuation captured at a part
 
 ## Schema
 
-This table can be populated from the [openalloc/valuation/snapshot](https://github.com/openalloc/AllocData#mvaluationsnapshot) schema.
+This table can be populated from the [openalloc/valuation/snapshot](https://github.com/open-portfolio/AllocData#mvaluationsnapshot) schema.
 
 The attributes for snapshot can be modified manually in the UI.
 

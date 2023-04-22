@@ -14,7 +14,7 @@ allocation pie.
 
 ## Schema
 
-This table can be populated from the [openalloc/allocation](https://github.com/openalloc/AllocData#mallocation) schema.
+This table can be populated from the [openalloc/allocation](https://github.com/open-portfolio/AllocData#mallocation) schema.
 
 Where support has been added, the Allocation Table can be populated
 through drag and drop of exports from your allocation provider. They can

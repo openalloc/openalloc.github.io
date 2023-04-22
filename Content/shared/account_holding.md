@@ -16,7 +16,7 @@ Note that holdings for accounts not assigned to a strategy will be ignored.
 
 ## Schema
 
-This table can be populated from the [openalloc/holding](https://github.com/openalloc/AllocData#mholding) schema.
+This table can be populated from the [openalloc/holding](https://github.com/open-portfolio/AllocData#mholding) schema.
 
 Where support has been added, the Holdings Table can be populated through
 drag and drop of exports from your brokerage account, such as ‘Portfolio

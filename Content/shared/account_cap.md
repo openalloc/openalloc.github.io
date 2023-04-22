@@ -14,7 +14,7 @@ account.
 
 ## Schema
 
-This table can be populated from the [openalloc/cap](https://github.com/openalloc/AllocData#mcap) schema.
+This table can be populated from the [openalloc/cap](https://github.com/open-portfolio/AllocData#mcap) schema.
 
 While drag and drop of schema-conforming delimited files is supported,
 most often the Caps will be configured manually through the UI.

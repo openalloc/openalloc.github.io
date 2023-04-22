@@ -13,7 +13,7 @@ Each row of the Strategies table describes a single allocation strategy.
 
 ## Schema
 
-This table can be populated from the [openalloc/strategy](https://github.com/openalloc/AllocData#mstrategy) schema.
+This table can be populated from the [openalloc/strategy](https://github.com/open-portfolio/AllocData#mstrategy) schema.
 
 Where support has been added, the Strategy Table can be
 populated through drag and drop of exports from your allocation provider.

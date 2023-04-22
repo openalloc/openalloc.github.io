@@ -13,7 +13,7 @@ As stated in the terms, OpenAlloc LLC is not a financial adviser and does not pr
 
 Common questions are answered in the documentation, available in-app and on the website.
 
-Issues regarding importers are tracked at the [OpenAlloc/FINporter](https://github.com/openalloc/FINporter) open source project on GitHub.
+Issues regarding importers are tracked at the [open-portfolio/FINporter](https://github.com/open-portfolio/FINporter) open source project on GitHub.
 
 You can contact support by email: [openalloc\_support@fastmail.com](mailto:openalloc_support@fastmail.com).
 
