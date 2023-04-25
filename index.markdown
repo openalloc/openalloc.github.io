@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Welcome to the _OpenAlloc Project_!
-
 <div style="width: 200px; height: 200px;"> <img src="/assets/images/openalloc_icon.png" style="width: inherit" /> </div> <p/>
 
 The [_OpenAlloc Project_](https://openalloc.github.io/) is a family of applications and re-usable libraries, written in Swift.
