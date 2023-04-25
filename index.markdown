@@ -2,15 +2,13 @@
 layout: home
 ---
 
+# Welcome to the _OpenAlloc Libraries Project_!
+
 <div style="width: 200px; height: 200px;"> <img src="/assets/images/openalloc_icon.png" style="width: inherit" /> </div> <p/>
 
-The [_OpenAlloc Project_](https://openalloc.github.io/) is a family of applications and re-usable libraries, written in Swift.
+The [_OpenAlloc Project_](https://openalloc.github.io/) is a family of applications, re-usable libraries, and user interface components, written in Swift.
 
-## Libraries
-
-A collection of reusable Swift libraries, written principally to support the apps mentioned below, available as Swift Packages.
-
-### Swift Components
+## Swift Libraries
 
 * [SwiftCompactor](https://github.com/openalloc/SwiftCompactor) - formatters for the concise display of Numbers, Currency, and Time Intervals
 * [SwiftModifiedDietz](https://github.com/openalloc/SwiftModifiedDietz) - a tool for calculating portfolio performance using the Modified Dietz method
@@ -19,7 +17,7 @@ A collection of reusable Swift libraries, written principally to support the app
 * [SwiftSeriesResampler](https://github.com/openalloc/SwiftSeriesResampler) - transform a series of coordinate values into a new series with uniform intervals
 * [SwiftSimpleTree](https://github.com/openalloc/SwiftSimpleTree) - a nested data structure that’s flexible and easy to use
 
-### User Interface Components, for the SwiftUI Framework
+## User Interface Components, for the SwiftUI Framework
 
 * [SwiftDetailer](https://github.com/openalloc/SwiftDetailer) - a multi-platform SwiftUI component for editing fielded data
 * [SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - a multi-platform SwiftUI component for basic number input
@@ -28,16 +26,9 @@ A collection of reusable Swift libraries, written principally to support the app
 
 ## XCode Setup
 
-See the [Workspace](https://github.com/openalloc/Workspace) repository for a handy Xcode workspace that contains most of the re-usable library repositories.
+See the [Workspace](https://github.com/openalloc/Workspace) repository for a handy Xcode workspace that contains  the library and user interface component repositories.
 
-## See also
-
-### OpenAlloc Libraries
-
-Re-usable Swift libraries for multiple platforms.
-
-* [_OpenAlloc Libraries_](https://openalloc.github.io/) - _OpenAlloc Libraries_ product website
-* [_OpenAlloc Libraries_ Project](https://github.com/openalloc/) - Github site for the development project, including full source code
+## Applications
 
 ### Open Trackers
 
