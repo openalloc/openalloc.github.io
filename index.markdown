@@ -2,13 +2,11 @@
 layout: home
 ---
 
-Re-useable Swift libraries for multiple platforms.
-
 # Welcome to the _OpenAlloc Project_!
 
 <div style="width: 200px; height: 200px;"> <img src="/assets/images/openalloc_icon.png" style="width: inherit" /> </div> <p/>
 
-The [_OpenAlloc Project_](https://openalloc.github.io/) is a family of applications and re-useable libraries, written in Swift.
+The [_OpenAlloc Project_](https://openalloc.github.io/) is a family of applications and re-usable libraries, written in Swift.
 
 ## Libraries
 
@@ -32,13 +30,13 @@ A collection of reusable Swift libraries, written principally to support the app
 
 ## XCode Setup
 
-See the [Workspace](https://github.com/openalloc/Workspace) repository for a handy Xcode workspace that contains most of the re-useable library repositories.
+See the [Workspace](https://github.com/openalloc/Workspace) repository for a handy Xcode workspace that contains most of the re-usable library repositories.
 
 ## See also
 
 ### OpenAlloc Libraries
 
-Re-useable Swift libraries for multiple platforms.
+Re-usable Swift libraries for multiple platforms.
 
 * [_OpenAlloc Libraries_](https://openalloc.github.io/) - _OpenAlloc Libraries_ product website
 * [_OpenAlloc Libraries_ Project](https://github.com/openalloc/) - Github site for the development project, including full source code
@@ -59,11 +57,11 @@ Investing apps for macOS.
 
 ## License
 
-Copyright 2021, 2022, 2023 OpenAlloc LLC
+Copyright 2021-2023 OpenAlloc LLC
 
 All application code is licensed under the [Mozilla Public License 2](https://www.mozilla.org/en-US/MPL/2.0/), except where noted in individual modules.
 
-Re-useable library code may be under the [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) or the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0), except where noted in individual modules.
+Re-usable library code may be under the [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) or the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0), except where noted in individual modules.
 
 Copyright is held by [@reedes](https://github.com/reedes)’s OpenAlloc LLC, except where noted in individual modules.
 
